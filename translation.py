@@ -1,7 +1,10 @@
 class Translation(object):
     START_TEXT =  """ A Simple File Renamer Bot With Permanent Thumbnail support!💯
+    
 I can rename any file of size under 2 GB.
+
 <b>Send me any Telegram file and reply to that file with /rename NewName.extention</b>
+
 Feel Free Ask Any Doubts In My Support Group
 Support Group : @CrazyBotszGrp & @InFoTelGroup"""
 
@@ -21,10 +24,11 @@ Support Group : @CrazyBotszGrp & @InFoTelGroup"""
     SAVED_RECVD_DOC_FILE = "File Downloaded Successfully😎"
     CUSTOM_CAPTION_UL_FILE = """ """
     HELP_USER = """<b>How To Use Me</b>
+    
     1. Send me any Telegram File(Some Files Gets Error)
     2. Reply to that message to /rename NEW NAME.EXTENSION
    
-   _FEATURES_
+   **FEATURES**
     
     ➡Rename Telegram File With Custom Thumbnail.
     ➡Convert Streamable File(Video) To File.
